@@ -36,6 +36,7 @@ header h2{
     font-size: 3vh;
     font-weight: bold;
     line-height: 1.6;
+    color: rgb(17, 31, 60);
 }
 .image img{
     height: 50vh;
