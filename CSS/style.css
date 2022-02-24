@@ -26,6 +26,7 @@ header h2{
 }
 .introduction{
     width: 50%;
+    margin-top: 2%;
 }
 .introduction p{
     font-size: 4vh;
@@ -45,6 +46,7 @@ header h2{
     object-fit: cover;
     border-radius: 50%;
     border: 3px solid maroon;
+    margin-top: 2%;
 }
 .btn-one{
     padding: 15px;
@@ -58,6 +60,10 @@ header h2{
     top: 44%;
     left: 20%;
     width: 14%;
+}
+.btn-one:hover{
+    width: 20%;
+    box-shadow: 4px 5px 5px rgb(17, 31, 60);
 }
 .things{
     background: rgb(240, 239, 235);
