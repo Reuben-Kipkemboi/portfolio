@@ -21,7 +21,8 @@ header h2{
     flex-wrap: wrap;
     justify-content: space-around; 
     width: 100%;  
-    background-image: url("../images/mine.jpg");
+    /* background-image: url("../images/mine.jpg"); */
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(74, 102, 122));
    
 }
 .introduction{
@@ -39,7 +40,8 @@ header h2{
     font-size: 3vh;
     font-weight: bold;
     line-height: 1.6;
-    color: rgb(17, 31, 60);
+    /* color: rgb(17, 31, 60); */
+    color: white;
 }
 .image img{
     height: 50vh;
@@ -66,5 +68,15 @@ header h2{
     box-shadow: 4px 5px 5px rgb(17, 31, 60);
 }
 .things{
-    background: rgb(240, 239, 235);
+    /* background-color: rgb(240, 239, 235); */
+    /* background-image: linear-gradient(to right, rgba(153, 30, 30, 0.1), rgb(222, 222, 222)); */
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(74, 102, 122));
+}
+.things h3{
+    font-size: 5vh;
+    text-align: center;
+}
+.things .what{
+    line-height: 1.6;
+    width: 60%;
 }
