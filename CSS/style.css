@@ -261,9 +261,14 @@ header h2{
     text-align: center;
     display: flex;
     flex-direction: column;
+    border-bottom: 2px solid rgb(17, 31, 60);
 }
-.one img{
-    /* border: 2px solid rgb(11, 25, 47);   */
+.one:hover{
+    transform: scale(1.1);
+    transition: .3s ease;
+    background-image: linear-gradient(to left, rgba(17, 31, 60, 0.6), rgba(133, 213, 237, 0.4));
+}
+.one img{ 
     object-fit: contain;
     height: 20vh;
     margin: 3% 0 3% 0;
@@ -272,4 +277,5 @@ header h2{
  font-size: 4vh;
  margin-left: 10%;
  margin-bottom: 1%;
+ cursor: pointer;
 }
