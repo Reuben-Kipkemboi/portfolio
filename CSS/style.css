@@ -130,6 +130,7 @@ header h2{
     color: rgb(11, 25, 47) ;
     text-align: center;
     text-shadow: 2px 4px 5px black;
+    margin-bottom: 2%;
 }
 .sample{
     display: flex;
@@ -191,3 +192,84 @@ header h2{
      color: rgb(17, 31, 60);
      font-weight: bold;
  }
+
+
+ /* About me section styling */
+.about h3{
+    font-size: 5vh;
+    text-align: center;
+    text-shadow: 2px 4px 5px black;
+    margin-bottom: 2%;
+}
+.education{
+    text-align: center;
+}
+.education h4{
+    font-size: 4vh;
+    line-height: 1.8;
+    font-weight: bold;
+    
+}
+.education p{
+    font-size: 3vh;
+    line-height: 1.8;
+    font-weight: bold;
+}
+.job h4{
+    text-align: center;
+    font-weight: bold;
+    font-size: 4vh;
+}
+.job ol{
+    margin: 2% 20% 2% 12%;
+    line-height: 1.8;
+    
+}
+.job ol li{
+    list-style-type: circle;
+    font-weight: 600;
+    
+}
+.me p{
+    font-size: 2.5vh;
+    margin: 0 10% 2% 10%;
+    line-height: 1.6;
+    font-style: italic;
+    color: rgb(17, 31, 60);
+    font-weight: 600;
+}
+.hobbies h4{
+    margin-left: 10%;
+}
+.hobbies ul{
+    display: block;
+    
+}
+.hobbies ul li{
+    list-style-type: disc;
+    line-height: 1.8;
+    font-weight: 600;
+    margin-left: 7%;
+}
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.skills .one{
+    width: 23%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.one img{
+    /* border: 2px solid rgb(11, 25, 47);   */
+    object-fit: contain;
+    height: 20vh;
+    margin: 3% 0 3% 0;
+}
+.me h4{
+ font-size: 4vh;
+ margin-left: 10%;
+ margin-bottom: 1%;
+}
