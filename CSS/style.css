@@ -279,3 +279,51 @@ header h2{
  margin-bottom: 1%;
  cursor: pointer;
 }
+footer{
+    background-color: rgb(237, 238, 239);
+    height: 50vh;
+}
+footer h5{
+    text-align: center;
+    font-size: 5vh;
+    margin: 3% 0 0 3%;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 40%;
+    justify-content: space-around;
+    margin: 1% 30% 3% 30%;
+    
+}
+.footer button{
+    color: black;
+    font-size: 3.5vh;
+    font-weight: bold;
+    border: none;
+    background-color: white; 
+    padding: 15px;
+    border-radius: 15px;
+}
+.footer button:hover{
+    background-color: rgb(193, 206, 234);
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 60%;
+    justify-content: space-around;
+    margin: 1% 30% 5% 20%;
+
+}
+.contact button{
+    color: white;
+    font-size: 3.5vh;
+    font-weight: bold;
+    border: none;
+    background-color: rgb(35, 39, 43); 
+    padding: 15px;
+    border-radius: 15px; 
+}
