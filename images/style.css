@@ -69,14 +69,23 @@ header h2{
 }
 .things{
     /* background-color: rgb(240, 239, 235); */
-    /* background-image: linear-gradient(to right, rgba(153, 30, 30, 0.1), rgb(222, 222, 222)); */
     background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(74, 102, 122));
 }
 .things h3{
     font-size: 5vh;
     text-align: center;
+    color: ;
 }
 .things .what{
     line-height: 1.6;
     width: 60%;
+}
+hr{
+    border: 2px solid yellow;
+    width: 50%;
+    align-self: center;
+
+}
+.projects{
+    margin-top: 3%;
 }
