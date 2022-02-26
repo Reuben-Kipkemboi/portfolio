@@ -38,7 +38,7 @@
 [Go Back to the top](#title)
 
 ## License
-[MIT License](License)
+[MIT License](LICENSE)
 
 ## Authors Info
 * Slack - [Reuben Kipkemboi]()
