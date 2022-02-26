@@ -288,6 +288,12 @@ footer h5{
     font-size: 5vh;
     margin: 3% 0 0 3%;
 }
+footer h4{
+    line-height: 1.6;
+    font-size: 4vh;
+    text-align: center;
+    color: rgb(11, 25, 47);
+}
 .footer{
     display: flex;
     flex-direction: row;
