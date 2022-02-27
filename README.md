@@ -7,12 +7,11 @@
 + [Description](#Description)
 + [Installation Requirement](#Installation)
 + [Technology Used](#technologies-used)
-+ [Reference](#reference)
 + [License](#license)
-+ [Authors Info](#Author Info)
++ [Authors Info](#authors-info)
 
 ## Description.
-<p>This is a webpage that conveys my portfolio.It has  all my information, my background information,some projects i have worked on and the relevant links to those projects, the experience i have gained from my previous encounters and my hobbies, skills and interests.</p>
+<p>This is a webpage that conveys my portfolio.It has  all my information, including my background information,some projects i have worked on and the relevant links to those projects, the experience i have gained from my previous encounters and my hobbies, skills and interests.</p>
 
 ### Portfolio Sections. 
 
@@ -27,7 +26,7 @@
 + A device that can connect to the internet.
 + Internet connection.
 
-[Go Back to the top](#My portfolio)
+[Go Back to the top](#my-portfolio)
 
 ## Technologies Used
 
@@ -35,7 +34,7 @@
 
 * CSS - To style the webpage and make it appealing.
 
-[Go Back to the top](#My Portfolio)
+[Go Back to the top](#my-portfolio)
 
 ## License
 [MIT License](LICENSE)
