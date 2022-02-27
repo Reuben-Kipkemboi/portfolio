@@ -25,8 +25,7 @@ header h2{
     flex-wrap: wrap;
     justify-content: space-around; 
     width: 100%;  
-    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(74, 102, 122));
-   
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(74, 102, 122));  
 }
 .introduction{
     width: 50%;
@@ -116,7 +115,6 @@ header h2{
 
 /* Project section styling */
 .projects{
-    /* color: rgb(17, 31, 60); */
     background-color: rgb(240, 239, 235);
    
 }
@@ -136,7 +134,6 @@ header h2{
 }
 .sample .project1{
     width: 30%;
-    /* border: 3px solid black; */
     margin-bottom: 3%;
     padding: 10px;
     align-content: center;
@@ -151,7 +148,6 @@ header h2{
     color: rgb(11, 25, 47);
     margin-bottom: 3%;
     text-transform: uppercase;
-
 }
 .project1 p{
     font-size: 2.5vh;
@@ -203,8 +199,7 @@ header h2{
 .education h4{
     font-size: 4vh;
     line-height: 1.8;
-    font-weight: bold;
-    
+    font-weight: bold;    
 }
 .education p{
     font-size: 3vh;
@@ -218,13 +213,11 @@ header h2{
 }
 .job ol{
     margin: 2% 20% 2% 12%;
-    line-height: 1.8;
-    
+    line-height: 1.8;   
 }
 .job ol li{
     list-style-type: circle;
-    font-weight: 600;
-    
+    font-weight: 600;   
 }
 .me p{
     font-size: 2.5vh;
@@ -238,8 +231,7 @@ header h2{
     margin-left: 10%;
 }
 .hobbies ul{
-    display: block;
-    
+    display: block;   
 }
 .hobbies ul li{
     list-style-type: disc;
@@ -296,8 +288,7 @@ footer h4{
     flex-wrap: wrap;
     width: 40%;
     justify-content: space-around;
-    margin: 1% 30% 3% 30%;
-    
+    margin: 1% 30% 3% 30%;   
 }
 .footer button{
     color: black;
@@ -318,7 +309,6 @@ footer h4{
     width: 60%;
     justify-content: space-around;
     margin: 1% 30% 5% 20%;
-
 }
 .contact button{
     color: white;
