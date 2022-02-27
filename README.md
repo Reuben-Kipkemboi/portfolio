@@ -9,7 +9,7 @@
 + [Technology Used](#technologies-used)
 + [Reference](#reference)
 + [License](#license)
-+ [Authors Info](#author-Info)
++ [Authors Info](#Author Info)
 
 ## Description.
 <p>This is a webpage that conveys my portfolio.It has  all my information, my background information,some projects i have worked on and the relevant links to those projects, the experience i have gained from my previous encounters and my hobbies, skills and interests.</p>
@@ -27,7 +27,7 @@
 + A device that can connect to the internet.
 + Internet connection.
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#My portfolio)
 
 ## Technologies Used
 
@@ -35,7 +35,7 @@
 
 * CSS - To style the webpage and make it appealing.
 
-[Go Back to the top](#Portfolio)
+[Go Back to the top](#My Portfolio)
 
 ## License
 [MIT License](LICENSE)
