@@ -27,7 +27,7 @@
 + A device that can connect to the internet.
 + Internet connection.
 
-[Go Back to the top](#title)
+[Go Back to the top](#portfolio)
 
 ## Technologies Used
 
@@ -35,7 +35,7 @@
 
 * CSS - To style the webpage and make it appealing.
 
-[Go Back to the top](#title)
+[Go Back to the top](#Portfolio)
 
 ## License
 [MIT License](LICENSE)
@@ -46,6 +46,7 @@
 * Email - [Reuben Kipkemboi](https://gmail.com)
 
 ## link to my portfolio
+* https://reuben-kipkemboi.github.io/portfolio/
 
 
 
